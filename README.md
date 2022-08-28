@@ -5,7 +5,6 @@ currently. The app is displaying posters of popular movies. When select a movie 
 can see details of the movie.
 
 ## Build With
---------------
 
 - Kotlin
 - Coroutines
@@ -13,13 +12,12 @@ can see details of the movie.
 - Dagger
 
 ## SDK levels supported
---------------
 
 - Minimum SDK 24
 - Target SDK 32
 
 ## Application release link
---------------
 
-- [App Build](https://github.com/hemantlatkar/HusqvarnaDemo/tree/main/app/release) - App build
+- [App Build](https://github.com/hemantlatkar/HusqvarnaDemo/tree/main/app/release) - Application
+  build
 
