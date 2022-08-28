@@ -11,5 +11,4 @@ object APIConstants {
 
     /* QUERY */
     const val API_KEY_QUERY = "api_key"
-    const val LANGUAGE_QUERY = "language"
 }

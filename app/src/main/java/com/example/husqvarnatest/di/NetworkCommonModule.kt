@@ -1,13 +1,11 @@
 package com.example.husqvarnatest.di
 
-import android.os.Environment
 import com.example.husqvarnatest.BuildConfig
 import com.example.husqvarnatest.data.dataSource.APIInterface
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
-import okhttp3.Cache
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
