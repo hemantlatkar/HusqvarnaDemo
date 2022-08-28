@@ -4,7 +4,7 @@ The Husqvarna Demo Assignment, an app using the Themoviedatabase API for showing
 currently. The app is displaying posters of popular movies. When select a movie from the list, we
 can see details of the movie.
 
-Built With 🛠
+## Build With
 --------------
 
 - Kotlin
@@ -12,9 +12,14 @@ Built With 🛠
 - Jetpack compose (If you feel comfortable)
 - Dagger
 
-SDK levels supported
+## SDK levels supported
 --------------
 
 - Minimum SDK 24
 - Target SDK 32
-- 
+
+## Application release link
+--------------
+
+- [App Build](https://github.com/hemantlatkar/HusqvarnaDemo/tree/main/app/release) - App build
+
