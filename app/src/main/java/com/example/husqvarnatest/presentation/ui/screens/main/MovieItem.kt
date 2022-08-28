@@ -72,31 +72,6 @@ fun MovieItem(navController: NavController, item: MoviePopularDetailsD) {
                 fontWeight = FontWeight.Bold,
                 textAlign = TextAlign.Center
             )
-
-            Row(
-                modifier = Modifier.padding(horizontal = 10.dp),
-                horizontalArrangement = Arrangement.Start
-            ) {
-                Text(
-                    text = stringResource(id = R.string.date_released),
-                    fontWeight = FontWeight.Bold,
-                )
-
-                Text(text = item.release_date)
-            }
-
-            Row(
-                modifier = Modifier.padding(horizontal = 10.dp),
-                horizontalArrangement = Arrangement.Start
-            ) {
-                Text(
-                    text = stringResource(id = R.string.vote_average),
-                    fontWeight = FontWeight.Bold,
-                    textAlign = TextAlign.Start
-                )
-
-                Text(text = item.vote_average.toString())
-            }
         }
     }
 }
