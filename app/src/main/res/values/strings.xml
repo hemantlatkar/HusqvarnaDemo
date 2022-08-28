@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HusqvarnaTest</string>
+    <string name="app_name">Husqvarna</string>
 
     <string name="vote_average">Average number of votes:\u0020</string>
     <string name="date_released">Date of release:\u0020</string>

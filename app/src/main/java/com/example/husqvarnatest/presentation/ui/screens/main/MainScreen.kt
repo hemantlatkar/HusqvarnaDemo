@@ -40,7 +40,7 @@ fun MainScreen(navController: NavController) {
         content = { padding ->
             Column(){
                 TopAppBar(
-                    title = { Text(text = "Husqvarna Test") }
+                    title = { Text(text = "Husqvarna Demo") }
                 )
                 LazyColumn(
                     modifier = Modifier
