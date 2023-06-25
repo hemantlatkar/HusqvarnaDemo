@@ -8,7 +8,7 @@ can see details of the movie.
 
 - Kotlin
 - Coroutines
-- Jetpack compose (If you feel comfortable)
+- Jetpack compose
 - Dagger
 
 ## SDK levels supported

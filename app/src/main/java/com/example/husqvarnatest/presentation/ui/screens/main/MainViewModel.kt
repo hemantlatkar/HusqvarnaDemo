@@ -18,7 +18,6 @@ class MainViewModel @Inject constructor(
 ) : ViewModel() {
 
     private val _loadingListMoviesPopular = MutableStateFlow<Boolean>(false)
-    val loadingListMoviesPopular = _loadingListMoviesPopular.asStateFlow()
 
     private val _listMoviesPopular = MutableStateFlow<List<MoviePopularDetailsD>>(listOf())
     val listMoviesPopular = _listMoviesPopular.asStateFlow()
